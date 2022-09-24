@@ -1,4 +1,5 @@
 # Scarverso-2.0
+Projeto desenvolvido na "ImersãoDev" da Alura.
 ![pf](https://user-images.githubusercontent.com/112108655/192118222-de457425-0584-440a-b23b-83f959d87a59.png)
 
 <B>HOSPEDAGEM DO SITE:</B>  https://gskars.github.io/Scarverso-2.0/
