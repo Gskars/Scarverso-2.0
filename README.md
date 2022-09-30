@@ -4,7 +4,7 @@
 
 ![pf](https://user-images.githubusercontent.com/112108655/192118222-de457425-0584-440a-b23b-83f959d87a59.png)
 
-<h1><B>HOSPEDAGEM DO SITE:</B>  https://gskars.github.io/Scarverso-2.0/
+<h2>HOSPEDAGEM DO SITE:</h2>  https://gskars.github.io/Scarverso-2.0/
 # Tecnologias :
 - HTML
 - CSS
